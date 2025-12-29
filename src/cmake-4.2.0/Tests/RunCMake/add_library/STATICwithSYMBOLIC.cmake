@@ -1,1 +1,0 @@
-add_library(TestStaticWithSymbolic STATIC SYMBOLIC)
