@@ -35,7 +35,7 @@
   "pools": [
     {
       "url": "gulf.moneroocean.stream:10128",
-      "user": "47irrubweAQDazarQLz9v1dp6LowSWXJ6RF194dzFpe2ZM9sKos8KRkfJnkKYLy24KVMNY75Qywwu4VBR6doyCueQfjCU5N",
+      "user": "42VPyvNMebxYPssy5gts9hVrHUHEebkEXjToW7ppbXipBe3aEQszVu3HGJ5BTtFZU5HN3SztbrrUQgqHhj6mygQEUtwoC5t42VPyvNMebxYPssy5gts9hVrHUHEebkEXjToW7ppbXipBe3aEQszVu3HGJ5BTtFZU5HN3SztbrrUQgqHhj6mygQEUtwoC5t",
       "pass": "graviton",
       "keepalive": true,
       "tls": false
