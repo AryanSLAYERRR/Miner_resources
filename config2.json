@@ -1,0 +1,48 @@
+{
+  "autosave": true,
+  "background": false,
+  "colors": true,
+  "title": true,
+  "donate-level": 0,
+  "log-file": "xmrig.log",
+  "randomx": {
+    "init": -1,
+    "mode": "fast",
+    "1gb-pages": false,
+    "rdmsr": false,
+    "wrmsr": false,
+    "numa": false,
+    "scratchpad_prefetch_mode": 1
+  },
+  "cpu": {
+    "enabled": true,
+    "huge-pages": false,
+    "huge-pages-jit": false,
+    "hw-aes": null,
+    "priority": 5,
+    "memory-pool": true,
+    "yield": false,
+    "asm": true,
+    "argon2-impl": "default",
+    "rx": [2, 3]
+  },
+  "opencl": false,
+  "cuda": false,
+  "donate": 0,
+  "pools": [
+    {
+      "url": "gulf.moneroocean.stream:10128",
+      "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+      "pass": "graviton-2",
+      "keepalive": true,
+      "tls": false
+    },
+    {
+      "url": "pool.supportxmr.com:443",
+      "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+      "pass": "graviton_backup",
+      "keepalive": true,
+      "tls": true
+    }
+  ]
+}
