@@ -31,7 +31,6 @@
 
   "opencl": false,
   "cuda": false,
-  "donate": 0,
 
   "pools": [
     {
