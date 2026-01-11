@@ -24,7 +24,7 @@
     "yield": false,
     "asm": true,
     "argon2-impl": "default",
-    "rx": [0, 1]
+    "rx": [0]
   },
   "opencl": false,
   "cuda": false,
