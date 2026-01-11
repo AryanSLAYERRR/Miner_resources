@@ -7,7 +7,7 @@
   "log-file": "xmrig.log",
   "randomx": {
     "init": -1,
-    "mode": "fast",
+    "mode": "light",
     "1gb-pages": false,
     "rdmsr": false,
     "wrmsr": false,
