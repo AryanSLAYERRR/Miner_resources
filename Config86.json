@@ -19,10 +19,10 @@
         "init-avx2": -1,
         "mode": "fast",
         "1gb-pages": false,
-        "rdmsr": false,
-        "wrmsr": false,
+        "rdmsr": null,
+        "wrmsr": null,
         "cache_qos": false,
-        "numa": false,
+        "numa": null,
         "scratchpad_prefetch_mode": 1
     },
     "cpu": {
