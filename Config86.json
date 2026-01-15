@@ -21,19 +21,17 @@
       -1,
       -1,
       -1,
-      -1,
-      -1,
       -1
     ]
   },
 
   "randomx": {
-    "init": 4,
+    "init": -1,
     "mode": "fast",
     "1gb-pages": false,
-    "rdmsr": true,
-    "wrmsr": true,
-    "numa": false
+    "rdmsr": false,
+    "wrmsr": false,
+    "numa": true
   },
 
   "pools": [
