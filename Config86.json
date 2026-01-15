@@ -14,16 +14,21 @@
     "yield": false,
     "asm": true,
     "argon2-impl": "default",
-    "rx": [1, 2, 3, 4]
+
+    "rx": [
+      -1,
+      -1,
+      -1
+    ]
   },
 
   "randomx": {
     "init": -1,
     "mode": "fast",
     "1gb-pages": false,
-    "rdmsr": true,
+    "rdmsr": false,
     "wrmsr": false,
-    "numa": true
+    "numa": false
   },
 
   "pools": [
@@ -31,7 +36,7 @@
       "url": "gulf.moneroocean.stream:10128",
       "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
       "pass": "x",
-      "rig-id": "xeon-6152-dual",
+      "rig-id": "xeon-8259cl",
       "keepalive": true,
       "tls": false
     }
