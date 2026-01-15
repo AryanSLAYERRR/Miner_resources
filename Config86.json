@@ -9,7 +9,7 @@
     "huge-pages": false,
     "huge-pages-jit": false,
     "hw-aes": null,
-    "priority": 5,
+    "priority": 10,
     "memory-pool": true,
     "yield": false,
     "asm": true,
@@ -24,11 +24,11 @@
   },
 
   "randomx": {
-    "init": -1,
+    "init": 4,
     "mode": "fast",
     "1gb-pages": false,
-    "rdmsr": false,
-    "wrmsr": false,
+    "rdmsr": true,
+    "wrmsr": true,
     "numa": false
   },
 
