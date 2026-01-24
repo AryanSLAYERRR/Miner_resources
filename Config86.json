@@ -34,43 +34,6 @@
 
   "pools": [
   {
-    "url": "gulf.moneroocean.stream:10128",
-    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
-    "pass": "x",
-    "rig-id": "xeon-8259cl",
-    "keepalive": true,
-    "tls": false,
-    "priority": 0
-  },
-  {
-    "url": "de.moneroocean.stream:10128",
-    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
-    "pass": "x",
-    "rig-id": "xeon-8259cl",
-    "keepalive": true,
-    "tls": false,
-    "priority": 1
-  },
-  {
-    "url": "us.moneroocean.stream:10128",
-    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
-    "pass": "x",
-    "rig-id": "xeon-8259cl",
-    "keepalive": true,
-    "tls": false,
-    "priority": 2
-  },
-  {
-    "url": "sg.moneroocean.stream:10128",
-    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
-    "pass": "x",
-    "rig-id": "xeon-8259cl",
-    "keepalive": true,
-    "tls": false,
-    "priority": 3
-  },
-
-  {
     "url": "pool.supportxmr.com:3333",
     "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
     "pass": "xeon-8259cl",
