@@ -33,15 +33,111 @@
   },
 
   "pools": [
-    {
-      "url": "gulf.moneroocean.stream:10128",
-      "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
-      "pass": "x",
-      "rig-id": "xeon-8259cl",
-      "keepalive": true,
-      "tls": false
-    }
-  ],
+  {
+    "url": "gulf.moneroocean.stream:10128",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "x",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 0
+  },
+  {
+    "url": "de.moneroocean.stream:10128",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "x",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 1
+  },
+  {
+    "url": "us.moneroocean.stream:10128",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "x",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 2
+  },
+  {
+    "url": "sg.moneroocean.stream:10128",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "x",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 3
+  },
 
-  "log-file": "xmrig.log"
+  {
+    "url": "pool.supportxmr.com:3333",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "xeon-8259cl",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 4
+  },
+  {
+    "url": "de.supportxmr.com:3333",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "xeon-8259cl",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 5
+  },
+
+  {
+    "url": "xmr.pool.minergate.com:45700",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "x",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 6
+  },
+
+  {
+    "url": "xmr-eu1.nanopool.org:14444",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "x",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 7
+  },
+
+  {
+    "url": "pool.hashvault.pro:3333",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "x",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 8
+  },
+
+  {
+    "url": "xmr.2miners.com:2222",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "xeon-8259cl",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 9
+  },
+
+  {
+    "url": "pool.minexmr.com:4444",
+    "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
+    "pass": "x",
+    "rig-id": "xeon-8259cl",
+    "keepalive": true,
+    "tls": false,
+    "priority": 10
+  }
+ ],
+
 }
