@@ -35,7 +35,7 @@
 
   "pools": [
     {
-      "url": "gulf.moneroocean.stream:10128",
+      "url": "0.tcp.in.ngrok.io:11199",
       "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
       "pass": "graviton",
       "keepalive": true,
