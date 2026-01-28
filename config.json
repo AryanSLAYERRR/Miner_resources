@@ -12,7 +12,7 @@
     "1gb-pages": false,
     "rdmsr": false,
     "wrmsr": false,
-    "numa": false,
+    "numa": true,
     "scratchpad_prefetch_mode": 1
   },
 
