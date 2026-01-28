@@ -26,7 +26,7 @@
     "yield": false,
     "asm": true,
     "argon2-impl": "default",
-    "max-threads-hint": 85
+    "max-threads-hint": 2
   },
 
   "opencl": false,
@@ -35,7 +35,7 @@
 
   "pools": [
     {
-      "url": "0.tcp.in.ngrok.io:15028",
+      "url": "gulf.moneroocean.stream:10128",
       "user": "85RcBrmqpB2TboWNtPUEzTLR5QVqZSiTPdq1fTiGdwvmC5E2rUzovKqArdYToBEZWz3qxthgoi2n41SJHJPN9amC9HCQbk8",
       "pass": "graviton",
       "keepalive": true,
