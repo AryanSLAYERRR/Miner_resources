@@ -56,5 +56,7 @@ echo "Launching XMRig..."
   -o "$DOCKER_PROXY_IP:9999" \
   -u "$WALLET" \
   --proxy "127.0.0.1:1055" \
+  --coin monero \
+  --nicehash \
   --no-tls \
   --rig-id "aws-$(hostname)"
